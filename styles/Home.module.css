@@ -165,7 +165,7 @@
   justify-content: center;
   padding: 12px 40px;
   border: 3px solid hsla(0, 0%, 100%, 0.1);
-  margin: 16px 0;
+  margin: 6px 0;
   background-clip: padding-box;
   background-color: hsla(0, 0%, 100%, 0.9);
   border-radius: 8px;
@@ -479,7 +479,7 @@
   appearance: none;
   align-items: center;
   -webkit-box-align: center;
-  justify-content: center;
+  justify-content: space-around;
   white-space: nowrap;
   vertical-align: middle;
   outline: 2px solid transparent;
@@ -495,7 +495,7 @@
   background: #e5e5ea;
   background-image: linear-gradient(to left, #cc25b3 0%, #418dff 101.52%);
   color: #fff;
-  width: 150px;
+  width: 30px;
   text-align: center;
   border-radius: 9999px;
 }
@@ -530,5 +530,15 @@
   .rightListing {
     width: 100%;
     align-items: center;
+  }
+
+  .social {
+  display: flex;
+  position: relative;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 40px;
+  margin: 6px 0;
   }
 }
