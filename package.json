@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "react-scripts build",
-    "start": "“start”: “NODE_ENV=production node server.js”",
+    "build": "next build",
+    "start": "next start",
     "lint": "next lint",
     "export": "next export",
     "deploy": "next build && next export && npx thirdweb@latest upload out"
