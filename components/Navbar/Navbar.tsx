@@ -24,7 +24,7 @@ export function Navbar() {
           </Link>
 
           <div className={styles.navMiddle}>
-            <Link href="/buy" className={styles.link}>
+            <Link href="/collect" className={styles.link}>
              Collect
             </Link>
             <Link href="/sell" className={styles.link}>
