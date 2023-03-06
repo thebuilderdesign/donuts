@@ -23,17 +23,6 @@ function MyApp({ Component, pageProps }: AppProps) {
       {/* Render the actual component (page) */}
       <Component {...pageProps} />
       <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
       <Footer />
     </ThirdwebProvider>
   );
