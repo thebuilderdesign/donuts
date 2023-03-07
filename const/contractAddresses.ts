@@ -7,11 +7,11 @@ export const NETWORK = Arbitrum;
 
 // 2. The address of the marketplace V3 smart contract.
 // Deploy your own: https://thirdweb.com/thirdweb.eth/MarketplaceV3
-export const MARKETPLACE_ADDRESS = "0x70c37a248560e27C2CFdEb4A250BD97B4Fcc8460";
+export const MARKETPLACE_ADDRESS = "0x6AAFAca49701FB5E5192092aC062E9033fBA76BA";
 
 // 3. The address of your NFT collection smart contract.
 export const NFT_COLLECTION_ADDRESS =
-  "0x8133827Ad7ed974747d94D018755EE09Aff20B56";
+  "0xec6d93420f1a3DbdA6A9b49CaF6CA99Edb82E175";
 
 // (Optional) Set up the URL of where users can view transactions on
 // For example, below, we use Mumbai.polygonscan to view transactions on the Mumbai testnet.
