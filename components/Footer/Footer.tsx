@@ -10,7 +10,7 @@ function Footer() {
          className={styles.left}>
                <div className={styles.social}>
                <Link href="https://twitter.com/DonutsProtocol" target="_blank"><ImTwitter size={25}></ImTwitter></Link>&nbsp; &nbsp;
-               <Link href="https://telegram.org/" target="_blank"><ImTelegram size={25}></ImTelegram></Link>&nbsp; &nbsp;
+               <Link href="https://t.me/donutsprotocol" target="_blank"><ImTelegram size={25}></ImTelegram></Link>&nbsp; &nbsp;
                <Link href="https://medium.com/" target="_blank"><GrMedium size={25}></GrMedium></Link>
                </div>
                <br></br>
