@@ -60,10 +60,10 @@ const Home: NextPage = () => {
                 </Link>
                 <Link
                   className={styles.heroCta}
-                  href="https://twitter.com/DonutsProtocol"
+                  href="https://ai.donutsprotocol.xyz"
                   target="_blank"
                 >
-                  Join Us
+                  AI NFT Creator
                 </Link>
               </div>
             </div>
